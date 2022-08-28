@@ -1,0 +1,19 @@
+{
+    "name": "works.koyomi.vrc.expressions.editor",
+    "references": [
+        "GUID:102d4df7b2ea5d54ebfbdc82cefe3deb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VRC_SDK_VRCSDK3"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
